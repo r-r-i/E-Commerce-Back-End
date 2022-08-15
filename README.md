@@ -8,6 +8,8 @@ For this challenge, I was given the task of buildin the back end for an e-commer
 
 The following video shows the application being used from the command line, and its results within Insomnia.
 
+- [demo](https://www.youtube.com/watch?v=Uv3oA4POK-Q)
+
 ## Installation Instructions
 
 To install necessary dependencies, run the following command:
